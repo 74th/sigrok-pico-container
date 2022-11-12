@@ -1,0 +1,6 @@
+[submodule "libsigrok"]
+	path = libsigrok
+	url = https://github.com/pico-coder/libsigrok
+[submodule "pulseview"]
+	path = pulseview
+	url = https://github.com/sigrokproject/pulseview
